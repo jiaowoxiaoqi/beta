@@ -2,13 +2,13 @@
   "name": "ceshimode",//插件名
   "version": "1.0.0",//插件版本号
   "description": "第一次玩的测试看看",//插件描述
-  "main": "index.js",//入口文件路径
+  "main": "mbate.js",//入口文件路径
   "scripts": {//命令行，通过npm run 执行
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {//github仓库项目地址
     "type": "git",
-    "url": "https://github.com/jiaowoxiaoqi/beta"
+    "url": "https://github.com/jiaowoxiaoqi/beta.git"
   },
   "keywords": [//关键词，使用数组，方便npm官网搜索
     "ceshi",
