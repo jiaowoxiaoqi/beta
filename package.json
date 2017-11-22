@@ -1,6 +1,6 @@
 {
   "name": "amsued_ceshibao",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "第一次玩的测试看看",
   "main": "mbate.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "author": "jiaowoxiaoqi",
   "license": "MIT",
-  "bugs":{
+  "bugs": {
     "url": "https://github.com/jiaowoxiaoqi/beta/issues"
   }
 }

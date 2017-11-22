@@ -1,4 +1,4 @@
-// myPlugin.js
+
 (function (definition) {
     "use strict";
     // CommonJS
@@ -28,7 +28,7 @@
   function sleep(long) {
     var start = Date.now();
     while((Date.now() - start) < long){}
-    alert('意不意外i');
+    console.log('意不意外i');
   }
   return myPlugin();
 })
